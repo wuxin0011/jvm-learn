@@ -10,7 +10,7 @@ permalink: /
 
 [JVM调优](https://www.yuque.com/fcant/java/wqqraq)
 
-[宋红康视频讲解](https://www.yuque.com/x.oni/xf10p3/lwz07f)
+[JVM深入](https://www.yuque.com/x.oni/xf10p3/lwz07f)
 
 [Java全栈社区](https://pdai.tech/)
 
