@@ -6,7 +6,10 @@ const sidebar: SidebarConfig = {
             text: '线程',
             children: [
                 '/juc/basic/',
-                '/juc/lock/'
+                '/juc/lock/',
+                '/juc/synchronized/',
+                '/juc/volatile/',
+                '/juc/final/',
             ]
         },
     ],

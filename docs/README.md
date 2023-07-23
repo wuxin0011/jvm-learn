@@ -5,13 +5,25 @@ permalink: /
 ---
 
 
+### 站点主要内容是什么
+
+
+这个站点主要是记录 Java 一些知识（也可以说是简要大纲），和[博客](https://wuxin0011.github.io/)区分开来，这样来也不容易混乱。
+
+
+
+### 为什么要建立这个站点？
+
+尽管网上许多别人写好的笔记，也许正是这个原因，导致自己眼高手低，希望通过死记硬背来理解相关知识，实际上大量内容如果么有实际体验光靠看是没有体会的 ，简而言之就是 “知其然而不知所以，虽聪明却无智慧。” 所以实际上很多内容没有掌握 ，靠记住是没有意义的，同时没有自己一套体系，但是这个站点内容不会太多，都是随便记录点，哪怕是记录一个大纲（后续会慢慢补充点 也不会太多也没这么精力）。
+
+
+
+
 
 ### 参考链接
 
-[JVM调优](https://www.yuque.com/fcant/java/wqqraq)
-
-[JVM深入](https://www.yuque.com/x.oni/xf10p3/lwz07f)
-
-[Java全栈社区](https://pdai.tech/)
+- [JVM调优](https://www.yuque.com/fcant/java/wqqraq)
+- [JVM深入](https://www.yuque.com/x.oni/xf10p3/lwz07f)
+- [Java全栈社区](https://pdai.tech/)
 
 
