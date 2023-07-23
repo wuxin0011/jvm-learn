@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-682e4ae3","path":"/juc/volatile/","title":"关键字volatile","lang":"en-US","frontmatter":{"title":"关键字volatile","description":"页面的描述","permalink":"/juc/volatile/"},"headers":[],"git":{"updatedTime":1690128754000,"contributors":[{"name":"wuxin001","email":"2191377759@qq.com","commits":1}]},"filePathRelative":"juc/04-juc-volatile.md"}');export{e as data};

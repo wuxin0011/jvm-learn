@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as n}from"./framework-d81ad7e5.js";const _={},c=n("p",null,"// todo ...",-1),s=[c];function r(a,l){return t(),o("div",null,s)}const i=e(_,[["render",r],["__file","index.html.vue"]]);export{i as default};
