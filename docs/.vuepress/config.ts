@@ -11,39 +11,28 @@ import navbar from "./configs/navbar";
 import sidebar from "./configs/sidebar";
 
 export default defineUserConfig({
-    // set site base to default value
     base: '/jvm-learn/',
-
-
-    // extra tags in `<head>`
     head: head,
 
-    // site-level locales configs
     locales: {
         '/': {
-            // lang: 'zh-CN',
             title: '巩固JVM',
             description: '巩固JVM',
         },
     },
 
 
-    // configure default theme
     theme: defaultTheme({
         logo: '/logo/logo.png',
         repo: 'wuxin0011/jvm-learn',
         docsBranch: 'main',
         docsDir: 'docs',
 
-        // theme-level locales configs
         locales: {
             '/': {
-                // navbar
-                // navbar: navbar,
-                // sidebar
+                navbar: navbar,
                 sidebar: sidebar,
-                // page meta
-                editLinkText: '在github上编辑此页',
+                editLinkText: '编辑此页',
             },
 
         },
@@ -65,9 +54,6 @@ export default defineUserConfig({
                 }
             },
         }),
-        // 基于 github Dissicon 的评论项目 giscus
-        // https://plugin-comment2.vuejs.press/
-        // https://giscus.app/zh-CN
         commentPlugin({
             provider: "Giscus",
             repo: 'wuxin0011/blog-giscus-comment',

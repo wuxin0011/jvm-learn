@@ -1,13 +1,14 @@
 import type { NavbarConfig } from 'vuepress'
 
 const navbar: NavbarConfig = [
-    // {
-    //     text: 'JVM',
-    //     link: '/jvm/',
-    //     children: [
-    //         '/jvm/jvm-basic.md',
-    //     ],
-    // },
+    {
+        text: 'JUC',
+        link: '/juc/basic/',
+    },
+    {
+        text: 'JVM',
+        link: '/jvm/jvm-basic/',
+    },
 ]
 
 export default navbar
